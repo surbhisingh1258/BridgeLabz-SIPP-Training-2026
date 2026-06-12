@@ -1,8 +1,21 @@
 # BridgeLabz-SIPP-Training-2026
 
 ### Day 1
-- Solved Programming Elements practice problems.
+- Completed Programming Elements practice problems.
+- Solved Daily Maker Plan challenge.
 
 ### Day 2
-- Solved Control Flow practice problems.
+- Completed Control Flow practice problems.
+- Practiced switch-case programs.
 - Solved scenario-based problems.
+- Solved Daily Maker Plan challenge.
+
+### Day 3
+- Completed Arrays practice problems.
+- Solved scenario-based problems.
+- Solved Daily Maker Plan challenge.
+
+### Day 4
+- Completed String practice problems.
+- Solved scenario-based problems.
+- Solved Daily Maker Plan challenge.
