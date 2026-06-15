@@ -19,3 +19,9 @@
 - Completed String practice problems.
 - Solved scenario-based problems.
 - Solved Daily Maker Plan challenge.
+
+### Day 8
+- Completed Java-Megthods practice problems.
+- Solved scenario-based problems.
+- Solved Daily Maker Plan challenge.
+
