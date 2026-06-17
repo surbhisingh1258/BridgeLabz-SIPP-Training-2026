@@ -25,3 +25,12 @@
 - Solved scenario-based problems.
 - Solved Daily Maker Plan challenge.
 
+### Day 9
+- Solved recursion practice problems.
+- Solved scenario-based problems.
+- Solved Daily Maker Plan challenge.
+
+### Day 10
+- Solved scenario-based problems on Exception Handling.
+
+
