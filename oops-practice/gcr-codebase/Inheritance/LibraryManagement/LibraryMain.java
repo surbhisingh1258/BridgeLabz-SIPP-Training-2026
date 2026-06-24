@@ -1,10 +1,10 @@
 public class LibraryMain{
 
     public static void display(){
-        Book b = new Book("Dopamine","2004");
+        Book b = new Book(2004,"Dopamine");
         Author a = new Author("Pankaj Sharma","Male",b);
 
-        book b2 = new Book("Narration of idiots","2008");
+        Book b2 = new Book(2008, "Narration of idiots");
         Author a2 = new Author("Lakash Tyagi","Male",b);
 
         System.out.println(a.toString());

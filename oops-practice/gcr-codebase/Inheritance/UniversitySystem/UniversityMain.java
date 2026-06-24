@@ -1,4 +1,4 @@
-publi class UniversityMain{
+public class UniversityMain{
 
     public static void main(String[] args){
 
