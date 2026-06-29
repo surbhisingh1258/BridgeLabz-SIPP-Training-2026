@@ -20,6 +20,8 @@
 - Solved scenario-based problems.
 - Solved Daily Maker Plan challenge.
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### Day 8 (Monday - 15 June)
 - Completed Java-Megthods practice problems.
 - Solved scenario-based problems.
@@ -37,5 +39,25 @@
 - Completed Exception Handling based problems.
 - Solved scenario-based problems on File Handling.
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+### Day 15 (Monday - 22 June)
+- OOP Fundamentals based probelems.
+- Solved scenario-based problems.
 
+### Day 16 (Tuesday - 23 June)
+- Encapsulation & Abstraction: getters/setters, data hiding, abstract classes, abstract methods based problems.
+- Daily scenario-based problems.
+
+### Day 17 (Wednesday - 24 June)
+- Practice problems based on Inheritance: extends, super keyword, constructor chaining, method overriding, final keyword. 
+- Solved scenario-based problems.
+
+### Day 18 (Thursday - 25 June)
+- Practice problems based on Polymorphism: runtime polymorphism, instanceof, object casting, and dynamic method dispatch.
+- Solved scenario-based problems.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Day 22 (Monday - 29 June)
+- Scenraio-based problems on Java-Interfaces.
