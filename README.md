@@ -61,3 +61,15 @@
 
 ### Day 22 (Monday - 29 June)
 - Scenraio-based problems on Java-Interfaces.
+
+### Day 23 (Tuesday - 30 June)
+- Collections Framework
+
+### Day 24 (Wednesday - 01 July)
+- Collections Framework
+
+### Day 25 (Thursday - 02 July)
+- Collections Framework
+- Solved scenario-based problems.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
