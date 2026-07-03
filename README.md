@@ -63,13 +63,13 @@
 - Scenraio-based problems on Java-Interfaces.
 
 ### Day 23 (Tuesday - 30 June)
-- Collections Framework
+- Collection Framework
 
 ### Day 24 (Wednesday - 01 July)
-- Collections Framework
+- Collection Framework
 
 ### Day 25 (Thursday - 02 July)
-- Collections Framework
+- Collection Framework
 - Solved scenario-based problems.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
