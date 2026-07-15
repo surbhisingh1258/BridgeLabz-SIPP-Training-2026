@@ -73,3 +73,30 @@
 - Solved scenario-based problems.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+### Day 29 (Monday - 06 July)
+-  Sorting Algorithms: Bubble Sort, Selection Sort, and Insertion Sort — swap counting, stability, and best/worst-case analysis.
+
+### Day 30 (Tuesday - 07 July)
+- Efficient Sorting: Merge Sort, Quick Sort, and Counting Sort — divide-and-conquer and partitioning.
+
+### Day 31 (Wednesday - 08 July)
+- Binary Search: standard binary search, search in rotated arrays, first/last occurrence.
+
+### Day 32 (Thursday - 09 July)
+- Two Pointers & Sliding Window: pair sum, triplets, maximum subarray of length k, and variable window.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Day 36 (Monday - 13 July)
+- Linked List: singly & doubly linked lists — insertion, deletion, reversal, cycle detection, merging, and finding the middle node.
+
+### Day 37 (Tuesday - 14 July)
+- Stacks: array & linked-list implementation, balanced brackets, next greater element, and the stock span problem.
+
+### Day 38 (Wednesday - 15 July)
+- Queues & Deque: circular queue, deque, priority queue (min-heap), and sliding window maximum. Hashing: HashMap internals, HashSet, collision handling, frequency maps, frequency-based problems, two-sum variants, and subarray sum problems.
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
