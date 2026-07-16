@@ -98,5 +98,7 @@
 ### Day 38 (Wednesday - 15 July)
 - Queues & Deque: circular queue, deque, priority queue (min-heap), and sliding window maximum. Hashing: HashMap internals, HashSet, collision handling, frequency maps, frequency-based problems, two-sum variants, and subarray sum problems.
 
+### Day 40 (Thursday - 16 July)
+- Binary Tree traversals (recursive & iterative), , Tree Height, and Diameter of a Binary Tree. We also covered : Insertion, Search, Deletion (all three cases), BST Validation, Kth Smallest Element, and Lowest Common Ancestor (LCA).
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
