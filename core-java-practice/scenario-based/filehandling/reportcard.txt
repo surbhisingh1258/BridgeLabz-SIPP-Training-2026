@@ -1,0 +1,12 @@
+Student Name : Surbhi
+Marks        : 85, 90, 88
+Average      : 87.67
+--------------------------------
+Student Name : Rahul
+Marks        : 78, 82, 80
+Average      : 80.00
+--------------------------------
+Student Name : Priya
+Marks        : 92, 95, 89
+Average      : 92.00
+--------------------------------
