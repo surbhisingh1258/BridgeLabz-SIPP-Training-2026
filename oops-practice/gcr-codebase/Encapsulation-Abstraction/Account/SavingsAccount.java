@@ -1,0 +1,16 @@
+class SavingsAccount extends Account {
+    private double interestRate;
+
+    public double getInterestRate() {
+        return interestRate;
+    }
+
+    public void setInterestRate(double interestRate) {
+        this.interestRate = interestRate;
+    }
+
+    @Override
+    double calculateInterest() {
+        return getBalance() * interestRate / 100;
+    }
+}
